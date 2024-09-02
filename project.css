@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    background-color: rgb(212, 203, 221);
+}
+input{
+    display: block;
+    width: 100%;
+   
+    
+}
+label{
+    color: green;
+   
+}
+form{
+   
+    border: 2px solid black;
+    min-width: 300px;
+    max-width: 500px;
+    
+
+   
+    margin: auto;
+    padding: 15px;
+   
+}
